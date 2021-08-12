@@ -1,4 +1,4 @@
-#    This file is part of the ChannelAutoForwarder distribution (https://github.com/xditya/ChannelAutoForwarder).
+#    This file is part of the ChannelAutoForwarder distribution.
 #    Copyright (c) 2021 Adiya
 #    
 #    This program is free software: you can redistribute it and/or modify  
@@ -10,7 +10,7 @@
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
 #    General Public License for more details.
 # 
-#    License can be found in < https://github.com/xditya/ChannelAutoForwarder/blob/main/License> .
+#    License can be found.
 
 import logging
 import asyncio
